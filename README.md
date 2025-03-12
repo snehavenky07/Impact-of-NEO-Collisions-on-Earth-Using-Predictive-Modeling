@@ -1,1 +1,3 @@
 # Impact-of-NEO-Collisions-on-Earth-Using-Predictive-Modeling
+
+Asteroid collisions pose a significant threat to Earth's safety and require predictive tools for early detection and mitigation. This project developed a predictive model using Decision Trees, Support Vector Machines (SVM), Naïve Bayes, and Logistic Regression to assess the likelihood and impact of Near-Earth Object (NEO) collisions. Among these, the Decision Tree model demonstrated superior performance, achieving 99.9% accuracy in predicting potential asteroid impacts. By integrating data on orbit distance, asteroid diameter, and revolution period, the model provided actionable insights for planetary defense strategies and enabled early warning systems to mitigate collision risks.
